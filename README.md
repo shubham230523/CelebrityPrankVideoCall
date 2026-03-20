@@ -142,5 +142,3 @@ If you like this project:
 ---
 
 > Built with ❤️ using Flutter
-
-```
